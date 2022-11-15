@@ -1,0 +1,6 @@
+C:\Users\Mario Lopez\Desktop\Practica final\proyectofinalasis222022\Codigo\Componentes\Reporteador\CapaModeloReporteria\bin\Debug\CapaModeloReporteria.dll
+C:\Users\Mario Lopez\Desktop\Practica final\proyectofinalasis222022\Codigo\Componentes\Reporteador\CapaModeloReporteria\bin\Debug\CapaModeloReporteria.pdb
+C:\Users\Mario Lopez\Desktop\Practica final\proyectofinalasis222022\Codigo\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.csproj.AssemblyReference.cache
+C:\Users\Mario Lopez\Desktop\Practica final\proyectofinalasis222022\Codigo\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.csproj.CoreCompileInputs.cache
+C:\Users\Mario Lopez\Desktop\Practica final\proyectofinalasis222022\Codigo\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.dll
+C:\Users\Mario Lopez\Desktop\Practica final\proyectofinalasis222022\Codigo\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.pdb
